@@ -1,5 +1,3 @@
-repeat wait()
-until game:IsLoaded()
 local TableChat = {"Banana Un Top","Config By #MinhNhat"}
 getgenv().SpamSkill = false
 getgenv().AutoUseRaceV3 = true
